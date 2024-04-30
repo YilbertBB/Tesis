@@ -1,1 +1,1 @@
-# Tesis
+Debido a que hoy se estuvo reinstalando el sistema operativo de la pc y agregandole otro y no se pudo terminar no se pudo subir el proyecto (Fontend ni Backend) mañana se piensa terminar la reinstalación e instalacion para subir el proyecto hasta donde se tiene.
